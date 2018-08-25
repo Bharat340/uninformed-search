@@ -14,6 +14,8 @@ This program will take an input file that has an arrangement of trees and will o
 - Breadth-first search (BFS)
 - Depth-first search (DFS)
 - Simulated annealing (SA).
+
+
 Input: The file input.txt in the current directory of your program will be formatted as follows:
 First line: Second line: Third line: Next n lines:
 instruction of which algorithm to use: BFS, DFS or SA
